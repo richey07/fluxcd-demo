@@ -3,7 +3,7 @@ kind: GitRepository
 metadata:
   name: hello-world-flask
 spec:
-  interval: 7s
+  interval: 5s
   ref:
     branch: master
   url: https://gitee.com/richey07/fluxcd-demo
