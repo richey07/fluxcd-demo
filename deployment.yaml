@@ -3,7 +3,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   labels:
-    app: hello-world-flask
+    app: hello-world-flask:v1
   name: hello-world-flask
 spec:
   replicas: 2
