@@ -6,5 +6,5 @@ metadata:
 spec:
   interval: 5s
   ref:
-    branch: main
+    branch: master
   url: https://gitee.com/richey07/fluxcd-demo
