@@ -1,10 +1,9 @@
-
 apiVersion: source.toolkit.fluxcd.io/v1beta2
 kind: GitRepository
 metadata:
   name: hello-world-flask
 spec:
-  interval: 6s
+  interval: 7s
   ref:
     branch: master
   url: https://gitee.com/richey07/fluxcd-demo
