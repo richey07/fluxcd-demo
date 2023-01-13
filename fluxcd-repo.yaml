@@ -6,4 +6,4 @@ spec:
   interval: 5s
   ref:
     branch: master
-  url: https://gitee.com/richey07/fluxcd-demo
+  url: https://github.com/richey07/fluxcd-demo
